@@ -35,7 +35,7 @@
 
 // An integer, the row number of your own seat (with the front row having index 1).
 
-// Constraints: 1 ≤ row ≤ nRows.
+// Constraints: 1 ≤ row ≤ nRows..
 
 // [output] an integer
 // The number of people who sit strictly behind you and in your column or to the left.
